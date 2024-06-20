@@ -15,25 +15,25 @@ export function Profile() {
 			</div>
 			<div className="social-media">
 				<a
-					href="https://twitter.com/EmilioBlacksmit"
+					href="https://reac-tube.vercel.app/"
 					target="_blank"
 				>
 					
 				</a>
 				<a
-					href="https://www.youtube.com/emilioblacksmith"
+					href="https://reac-tube.vercel.app/"
 					target="_blank"
 				>
 					󰗃
 				</a>
 				<a
-					href="https://www.twitch.tv/emilioblacksmith"
+					href="https://reac-tube.vercel.app/"
 					target="_blank"
 				>
 					
 				</a>
 				<a
-					href="mailto:emilioblacksmithlush@gmail.com"
+					href="mailto: malipor180@gmail.com"
 					target="_blank"
 				>
 					
