@@ -5,28 +5,28 @@ export function Links() {
 		<div className="links">
 			<a
 				className="button"
-				href="https://www.youtube.com/emilioblacksmith"
+				href="https://piped.video/trending"
 				target="_blank"
 			>
 				My Dev Channel
 			</a>
 			<a
 				className="button"
-				href="https://emilioblacksmith.itch.io/"
+				href="https://reac-tube.vercel.app/"
 				target="_blank"
 			>
 				My Itch.io Page
 			</a>
 			<a
 				className="button"
-				href="https://emilioblacksmith.github.io/"
+				href="https://conduit-chi.vercel.app/trending/"
 				target="_blank"
 			>
 				My Website
 			</a>
 			<a
 				className="button"
-				href="https://emilioblacksmith.github.io/TheBlacksmithBlog/"
+				href="https://malipor.ir/"
 				target="_blank"
 			>
 				My Personal Blog
